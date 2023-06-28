@@ -1,3 +1,5 @@
+## Share your #DevCard
+<a href="https://app.daily.dev/H1n"><img src="https://api.daily.dev/devcards/fc879444760c4a428b1821e80a721688.png?r=k6f" width="400" alt="Trương Huỳnh Quý's Dev Card"/></a>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quy25/) 
